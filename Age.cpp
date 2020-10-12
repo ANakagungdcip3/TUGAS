@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 //deklarasi
-	int n;˜
+	int n;
 	int i;
 //inisialisasi
 	cout << "Masukkan bilangan bulat : ";
