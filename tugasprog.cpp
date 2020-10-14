@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 int pem, ro, gra, man;
- pem = 0;
+pem=0;
  for (pem = 1; pem<=3; pem ++)
   for (ro = 1; ro<= pem; ro++)
    for (gra = pem; gra>= ro; gra--)
